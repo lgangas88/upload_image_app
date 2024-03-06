@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864314561640",
+    "project_id": "wisyapp",
+    "storage_bucket": "wisyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864314561640:android:d57c51a588d82be535d7dd",
+        "android_client_info": {
+          "package_name": "com.example.wisy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAry-bpkM6yUtuJAt5Vn2ARv1i0bZEQ3Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
