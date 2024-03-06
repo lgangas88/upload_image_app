@@ -95,7 +95,7 @@ class _PreviewImage extends ConsumerWidget {
           ),
           const SizedBox(height: 12),
           Text(
-            'Fecha: ${image.timestamp}',
+            'Date: ${image.timestamp}',
             style: Theme.of(context).textTheme.bodySmall,
           ),
           const SizedBox(height: 24),
