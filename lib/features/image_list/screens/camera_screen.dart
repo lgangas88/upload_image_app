@@ -107,7 +107,7 @@ class _PreviewImage extends ConsumerWidget {
               );
               ref.read(imageListProvider.notifier).storeImage();
             },
-            child: const Text('Aceptar'),
+            child: const Text('Accept'),
           ),
         ],
       ),
